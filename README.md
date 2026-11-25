@@ -12,7 +12,7 @@ estudante de faculdade // aspirante a pentester
 ┌──(Moons-Cyber㉿github)-[~]
 └─$ cat interesses.txt
 [+] Segurança ofensiva & CTFs
-[+] Linux, redes e Docker
+[+] Linux e redes 
 [+] Automação com scripts
 
 ┌──(Moons-Cyber㉿github)-[~]
